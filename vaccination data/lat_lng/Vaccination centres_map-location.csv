@@ -1,0 +1,159 @@
+﻿"Region
+",STP/ICS,Centre,Address,Postcode,longitude,latitude,certain or not,coordinate system
+East of England,"Bedfordshire, Luton and Milton Keynes",Bedford Heights,"Brickhill Drive, Bedford",MK41 7PH,-0.4623189,52.1529686,GEOMETRIC_CENTER,wgs84
+East of England,"Bedfordshire, Luton and Milton Keynes",Biggleswade Community Hospital ​,"Potton Road, Biggleswade",SG18 0EJ,-0.2511507,52.0960947,GEOMETRIC_CENTER,wgs84
+East of England,"Bedfordshire, Luton and Milton Keynes",Inspire: Luton Sports Village   ,"Butterfield Green Rd, Luton",LU2 8DD,-0.396294,51.9104106,GEOMETRIC_CENTER,wgs84
+East of England,"Bedfordshire, Luton and Milton Keynes",Priory House,"Monks Walk, Chicksands, Shefford",SG17 5TQ,-0.3627915,52.0347917,GEOMETRIC_CENTER,wgs84
+East of England,"Bedfordshire, Luton and Milton Keynes",Redgrave Children's Centre,"Redgrave Children's Centre, Luton",LU3 3QN,-0.4493519,51.9196427,ROOFTOP,wgs84
+East of England,"Bedfordshire, Luton and Milton Keynes",Saxon Court,"502 Avebury Boulevard, Milton Keynes",MK9 3HS,-0.7556133,52.0388232,ROOFTOP,wgs84
+East of England,"Bedfordshire, Luton and Milton Keynes",Watling House,"High Street North, Dunstable",LU6 1LF ,-0.5287791,51.8915963,GEOMETRIC_CENTER,wgs84
+East of England,Cambridgeshire and Peterborough,Chesterton Indoor Bowls Club,"Logans Way, Cambridge",CB4 1BL,0.1396137,52.2128335,GEOMETRIC_CENTER,wgs84
+East of England,Cambridgeshire and Peterborough,East of England Showground,"Oundle Road, Peterborough",PE2 6XE,-0.3193301,52.5502749,GEOMETRIC_CENTER,wgs84
+East of England,Cambridgeshire and Peterborough,Horsefair Supermarket,"Horsefair Shopping Centre, Churchill Road, Wisbech",PE13 1AR,0.161492,52.666735,GEOMETRIC_CENTER,wgs84
+East of England,Cambridgeshire and Peterborough,Oak Tree Centre,"2 Oak Drive, Huntingdon",PE29 7HN,-0.1760388,52.3456789,RANGE_INTERPOLATED,wgs84
+East of England,Cambridgeshire and Peterborough,The Priory Centre,"Priory Lane, St Neots",PE19 2BH,-0.2705335,52.2283206,GEOMETRIC_CENTER,wgs84
+East of England,Cambridgeshire and Peterborough ,Peterborough City Care Centre,"City Care Centre, Thorpe Road, Peterborough ",PE3 6DB ,-0.2586716,52.5744285,ROOFTOP,wgs84
+East of England,Cambridgeshire and Peterborough ,Unit 30,"Unit 30, Grafton Centre, Cambridge",CB1 1PS,0.1332753,52.2069728,ROOFTOP,wgs84
+East of England,Hertfordshire and West Essex,Avanti Meadows School,"Farnham Road, Bishops Stortford, Hertfordshire",CM23 1JJ,,,,
+East of England,Hertfordshire and West Essex,Former Da Vinci Grammar School - Letchworth​,"Old Grammar School, Broadway, Letchworth Garden City",SG6 3PA,-0.2318214,51.9762075,ROOFTOP,wgs84
+East of England,Hertfordshire and West Essex,Harlow Sports Centre ,"Second Av, Harlow, Essex ",CM20 3DT,0.1133715,51.7650536,GEOMETRIC_CENTER,wgs84
+East of England,Hertfordshire and West Essex,Hemel Hempstead Hospital,"Hillfield Rd, Hemel Hempstead",HP2 4AD,-0.4680296,51.7528305,GEOMETRIC_CENTER,wgs84
+East of England,Hertfordshire and West Essex,Murray Hall Community Centre,"106 Borders Lane, Loughton",IG10 3SB,0.0739494,51.6478016,ROOFTOP,wgs84
+East of England,Hertfordshire and West Essex,"Roche - WGC,Hexagon Place","Falcon Way, Shire Park, Welwyn Garden City",AL7 1TW,-0.1937467,51.8074627,ROOFTOP,wgs84
+East of England,Hertfordshire and West Essex,Watford Town Hall,"Rickmansworth Rd, Watford",WD17 3EW,-0.412219,51.6550704,GEOMETRIC_CENTER,wgs84
+East of England,Hertfordshire and West Essex ,"Alban Arena,Civic Centre",St Alban's,AL1 3LD,-0.339436,51.752725,APPROXIMATE,wgs84
+East of England,Hertfordshire and West Essex ,Robertson House,"6 Six Hills Way, Stevenage ",SG1 2FQ,-0.2123892,51.8982417,ROOFTOP,wgs84
+East of England,Hertfordshire and West Essex ,Ware Priory,"High Street, Ware",SG12 9AL,-0.0318011,51.8110468,GEOMETRIC_CENTER,wgs84
+East of England,Mid and South Essex,Alastair Farquhason Centre,"Thurrock Hospital, Long Lane",RM16 2PX,0.3362585,51.4960349,ROOFTOP,wgs84
+East of England,Mid and South Essex,Chelmsford Race Course ,Chelmsford, CM3 1QP,-71.3672838,42.5998139,APPROXIMATE,wgs84
+East of England,Mid and South Essex,Cliff Pavillion,"Station Road, Westcliff-on-Sea",SS0 7RA,0.6910414,51.5372,GEOMETRIC_CENTER,wgs84
+East of England,Mid and South Essex,Runnymede Hall,"Kiln Road, Thundersley, Essex",SS7 1TF,0.5885013,51.5607022,GEOMETRIC_CENTER,wgs84
+East of England,Mid and South Essex,The Lodge,"Runwell Chase, Runwell, Wickford",SS11 7XX,0.5426096,51.6279197,GEOMETRIC_CENTER,wgs84
+East of England,Mid and South Essex,The Mill Arts & Events Centre,"Bellingham Lane, Rayleigh",SS6 7ED,0.6061906,51.5875563,GEOMETRIC_CENTER,wgs84
+East of England,Mid and South Essex,Towngate Theatre,"St. Martins Square, Basildon",SS14 1DL,0.4553877,51.5708462,GEOMETRIC_CENTER,wgs84
+East of England,Mid and South Essex,Tyler Ryde,"South Woodham Ferrers, Chelmsford",CM3 5ZT,0.614665,51.6465,APPROXIMATE,wgs84
+East of England,Norfolk and Waveney Health & Care Partnership,Connaught Hall,"Station Road, Attleborough",NR17 2AS,1.0219405,52.514221,GEOMETRIC_CENTER,wgs84
+East of England,Norfolk and Waveney Health & Care Partnership,Corn Exchange Theatre,"Tuesday Market Place, Kings Lynn",PE30 1JW,0.3940237,52.7564514,GEOMETRIC_CENTER,wgs84
+East of England,Norfolk and Waveney Health & Care Partnership,N Walsham Community Centre,"New Road, North Walsham",NR28 9DE,1.391727,52.8204321,GEOMETRIC_CENTER,wgs84
+East of England,Norfolk and Waveney Health & Care Partnership,Norwich Foodcourt,"100 Castle Quarter, Norwich",NR1 3JX,1.2963689,52.6273956,ROOFTOP,wgs84
+East of England,Norfolk and Waveney Health Care Partnership,Former BrightHouse,19/21 Market Gates Shopping Centre,NR30 2BG,1.728396,52.6078289,GEOMETRIC_CENTER,wgs84
+East of England,Norfolk and Waveney Health Care Partnership,Old Laws Court,Old Nelson Street Lowerstoft,NR32 1EQ,1.7555434,52.4783074,GEOMETRIC_CENTER,wgs84
+East of England,Norfolk and Waveney Health Care Partnership,Town Hall (Downham Market),Downham Market,PE38 9HS,0.385472,52.606612,APPROXIMATE,wgs84
+East of England,Norfolk and Waveny Health Care Partnership,Paddock Road Surgery," 6 Bullock Fair Close, Harleston",IP20 9AR,1.29946,52.4032241,ROOFTOP,wgs84
+East of England,Suffolk and North East Essex,(Former) Riverwalk School,"Mayfield Road, Bury St Edmunds",IP33 2PD,0.7213145,52.2288386,GEOMETRIC_CENTER,wgs84
+East of England,Suffolk and North East Essex,Clacton Hospital,"Clacton & District Hospital, Tower Road, Clacton-On-Sea",CO15 1LH,1.1485076,51.7855807,GEOMETRIC_CENTER,wgs84
+East of England,Suffolk and North East Essex,Colchester Football Club,"Jobserve Community Stadium, United Way Mile End, Colchester",CO4 5UP,0.8968745,51.9233284,GEOMETRIC_CENTER,wgs84
+East of England,Suffolk and North East Essex,Former Forrest Heath Offices,College Heath Rd Mildenhall,IP28 7EY,0.5223111,52.3500468,GEOMETRIC_CENTER,wgs84
+East of England,Suffolk and North East Essex,Gainsborough Sports Centre,"5 Brazier’s Wood Rd, Ipswich", IP3 0SP,1.1887518,52.0312486,ROOFTOP,wgs84
+East of England,Suffolk and North East Essex,Unity Trust Offices,"Park Road, Haverhill",CB9 7YD,0.4179976,52.0891649,GEOMETRIC_CENTER,wgs84
+East of England,Suffolk and North East Essex,Walton on Naze Community Centre,"Standley Road Walton on the Naze, Frinton, Essex",CO14 8PZ,1.2744225,51.851989,GEOMETRIC_CENTER,wgs84
+London,East Lodon Health & Care Partnership,Chingford Leisure Centre,Chingford Leisure Centre,E4 9EY,-0.0060709,51.6174231,ROOFTOP,wgs84
+London,East London Health & Care Partnership,Excel Centre (London Nightingale),"Door N8, Excel traffic office, Sandstone lane",E16 1FR,0.0293193,51.5091932,GEOMETRIC_CENTER,wgs84
+London,East London Health & Care Partnership,Liberty Shopping Centre,"Unit 4, Lockwood Walk, Romford  (Former Sports Direct store)",RM1 3RH,0.1833692,51.5775767,ROOFTOP,wgs84
+London,East London Health & Care Partnership,Sanofi,"Rainham Road South, Dagenham",RM10 7XS,0.1662577,51.543971,GEOMETRIC_CENTER,wgs84
+London,East London Health & Care Partnership,"Westfield Stratford City - old ikea and Dwell retail unit, ","Mountfitchet Road, Olympic Park, East London, ",E20 1EJ,-0.0159001,51.5441976,GEOMETRIC_CENTER,wgs84
+London,East London Health & Care Partnership ,King George Hospital,"Barley lane, Goodmayes, London",IG3 8YB,0.11155,51.5694668,GEOMETRIC_CENTER,wgs84
+London,North London ,Hornsey Central Neighbourhood Health Centre,"151 Park Road, London ",N8 8JD,-0.1312742,51.5840435,ROOFTOP,wgs84
+London,North London Partners in Health & Care,Dugdale Centre,"39 London Road, Enfield",EN2 6DS,-0.0809575,51.6503809,ROOFTOP,wgs84
+London,North London Partners In Health & Care,The Francis Crick Institute,"1 Midland Road, London",NW1 1AT,-0.1288322,51.5315552,ROOFTOP,wgs84
+London,North London Partners in Health and Care,Business Design Centre,"52 Upper St, The Angel Islington, London",N1 0QH,-0.1059479,51.5354962,ROOFTOP,wgs84
+London,North West London ,Network House,"8 Fulton Rd, Wembley, London",HA9 0NU,-0.2788961,51.5606123,ROOFTOP,wgs84
+London,North West London Health & Care Partnership,Compass Centre,"Bath Road, Heathrow",TW6 2GW,-0.4542955,51.4700223,GEOMETRIC_CENTER,wgs84
+London,North West London Health & Care Partnership,CP House,"97-107 Uxbridge Road, Ealing",W5 5TL,-0.3126769,51.5116482,ROOFTOP,wgs84
+London,North West London Health & Care Partnership,ETC Venues,"86 Edgware Rd, Marble Arch, Westminster",W2 2EA,-0.1632461,51.5154744,ROOFTOP,wgs84
+London,North West London Health & Care Partnership,Fountain Leisure Centre,"658 Chiswick High Road, Brentford",TW8 0HJ,-0.2848744,51.4910585,ROOFTOP,wgs84
+London,North West London Health & Care Partnership,Novotel Conference Centre,"Chablis Suite, Hammersmith, London",W6 8DR,-0.232675,51.4968222,ROOFTOP,wgs84
+London,North West London Health & Care Partnership,Old Vinyl Factory,"Blyth Road, Hayes",UB3 1HA,-0.4257339,51.5046123,GEOMETRIC_CENTER,wgs84
+London,North West London Health & Care Partnership,Science Museum,"Exhibition Road, London",SW7 2DD,-0.1741009,51.4981806,GEOMETRIC_CENTER,wgs84
+London,Our Healthier South East London,Bromley Civic Centre,"Stockwell Close, Bromley",BR1 3UH,0.0193894,51.4039501,GEOMETRIC_CENTER,wgs84
+London,Our Healthier South East London,Guys Hospital,"Great Maze Pond, London",SE1 9RT,-0.0880079,51.5033034,GEOMETRIC_CENTER,wgs84
+London,Our Healthier South East London,Lewisham Hospital,"Lewisham High St, London",SE13 6LH,-0.0131307,51.4579512,GEOMETRIC_CENTER,wgs84
+London,Our Healthier South East London,Queen Elizabeth Hospital,"Stadium Rd, Woolwich, London",SE18 4QH,0.0515065,51.4777435,GEOMETRIC_CENTER,wgs84
+London,Our Healthier South East London,St Thomas's Hospital,"Westminster Bridge Rd, South Bank, London",SE1 7EH,-0.1141971,51.4997422,GEOMETRIC_CENTER,wgs84
+London,South West London ,Hawks Road Health Clinic (NHSPS Vacant),"Hawks Road Clinic Hawks Road, Kingston-Upon-Thames ",KT1 3EW,-0.2900042,51.4091491,GEOMETRIC_CENTER,wgs84
+London,South West London Health & Care Partnership,AFC Wimbledon,"Plough Lane, London",SW17 0BL,-0.1868393,51.4292024,GEOMETRIC_CENTER,wgs84
+London,South West London Health & Care Partnership,Battersea Arts Centre,"Lavender Hill, London",SW11 5TN,-0.1591542,51.4649288,GEOMETRIC_CENTER,wgs84
+London,South West London Health & Care Partnership,Centrale Shopping Centre,"21 North End, Croydon",CR0 1TY,-0.1026035,51.376142,ROOFTOP,wgs84
+London,South West London Health & Care Partnership,Centre Court Shopping Centre,"4 Queens Road, Wimbledon",SW19 8YA,-0.2035518,51.4217454,ROOFTOP,wgs84
+London,South West London Health & Care Partnership,Crystal Palace FC,"Selhurst Park Stadium, Holmesdale Road, London",SE25 6PU,-0.0860576,51.3979743,ROOFTOP,wgs84
+London,South West London Health & Care Partnership,Harlequins RFC,"The Stoop, Langhorn Drive, Twickenham",TW2 7SX,-0.344181,51.450356,GEOMETRIC_CENTER,wgs84
+London,South West London Health & Care Partnership,Queen Mary's Hospital,"Roehampton lane, London",SW15 5PN,-0.2430848,51.455521,GEOMETRIC_CENTER,wgs84
+London,South West London Health & Care Partnership,St Nicholas Shopping Centre,"St Nicholas Way, Sutton",SM1 1AY,-0.1949929,51.3647892,GEOMETRIC_CENTER,wgs84
+Midlands,Birmingham and Solihull,Aston Villa FC,"Villa Park, 218 Witton Lane, Birmingham",B6 7DS,-1.8847828,52.5091117,GEOMETRIC_CENTER,wgs84
+Midlands,Birmingham and Solihull,Edgbaston Cricket Ground,"Edgbaston Road, Birmingham",B5 7QU,-1.8981744,52.4543431,GEOMETRIC_CENTER,wgs84
+Midlands,Hereford and Worcestershire ,Malvern Showground,Malvern Three Counties Showground,WR13 6NW,-2.3144888,52.0822984,GEOMETRIC_CENTER,wgs84
+Midlands,Herefordshire and Worcestershire,Elgar House,Holmer Road Hereford,HR4 9BD,-2.7218829,52.0716399,GEOMETRIC_CENTER,wgs84
+Midlands,Herefordshire and Worcestershire,St Peters Church,Eden Close Worcester,WR5 3TY,-2.2037108,52.1723999,GEOMETRIC_CENTER,wgs84
+Midlands,Lincolnshire,Lincs Showground,"Grange-de-Lings, Lincoln",LN2 2NA,-0.518807,53.284215,APPROXIMATE,wgs84
+Midlands,"Shropshire, Telford and Wrekin",Ludlow race course ,"Bromfield, Ludlow",SY8 2BT,-2.7139129,52.367749,APPROXIMATE,wgs84
+Midlands,"Shropshire, Telford and Wrekin",The Bowling Centre,"Shrewsbury Sports Village, Sundorne Road, Shrewsbury",SY1 4RQ,-2.7191,52.727475,GEOMETRIC_CENTER,wgs84
+Midlands,"Shropshire, Telford and Wrekin",The Robert Jones and Agnes Hunt Hospital,"Gobowen, Oswestry",SY10 7AG,-3.056412,52.857148,APPROXIMATE,wgs84
+Midlands,Staffordshire and Stoke on Trent,Whitemore Lakes,"Barley Green Lane, Lichfield",WS13 8QT ,-1.7342245,52.7232964,GEOMETRIC_CENTER,wgs84
+Midlands,Staffordshire and Stoke-on-Trent,Kingston Centre,"Fairway, Stafford",ST16 3TW,-2.0996799,52.8035193,GEOMETRIC_CENTER,wgs84
+Midlands,The Black Country and West Birmingham,Saddlers Vaccination Centre (prev name TJ Hughes),"11 Bradford Mall ,The Saddlers Centre, Walsall",WS1 1YS,-1.9840962,52.5841233,ROOFTOP,wgs84
+Midlands,The Black Country and West Birmingham,Tipton Sports Academy,"Wednesbury Oak Rd, Tipton",DY4 0BS,-2.0547117,52.5460827,GEOMETRIC_CENTER,wgs84
+Midlands ,Birmingham and Solihull,Millennium Point ,"Curzon Street, Birmingham",B4 7XG,-1.8863332,52.4815943,GEOMETRIC_CENTER,wgs84
+Midlands ,Coventry and Warwickshire,"Hall 1, Stoneleigh Park Agricultural Centre",Kenilworth,CV8 2LG,-1.58073,52.349557,APPROXIMATE,wgs84
+Midlands ,Herefordshire and Worcestershire,Artrix Centre,Bromsgrove ,B60 1GN,-2.061906,52.335589,APPROXIMATE,wgs84
+Midlands ,Joined Up Care Derbyshire,Derby Arena,"Royal Way, Derby",DE24 8JB,-1.4484867,52.9132532,GEOMETRIC_CENTER,wgs84
+Midlands ,"Leicester, Leicestershire and Rutland",Peepul Centre,"Orchardson Ave, Leicester",LE4 6DP,-1.122023,52.644437,GEOMETRIC_CENTER,wgs84
+Midlands ,Lincolnshire,Princess Royal Sports Arena,"Great Fen Road, Wyberton, Boston",PE21 7PB,-0.0718208,52.978883,GEOMETRIC_CENTER,wgs84
+Midlands ,Northamptonshire,Royal Pavilion,"Summerhouse Road, Moulton Park, Northampton",NN3 6BJ,-0.8721028,52.2760499,GEOMETRIC_CENTER,wgs84
+Midlands ,Nottingham & Nottinghamshire,Former Wickes Store,"134 Chesterfield Road South, Mansfield",NG19 7AP,-1.2050931,53.1536683,ROOFTOP,wgs84
+Midlands ,"Shropshire, Telford & Wrekin",Telford International Centre,"St Quentin Gate, Telford",TF3 4JH,-2.4425397,52.6734531,GEOMETRIC_CENTER,wgs84
+Midlands ,Staffordshire and Stoke on Trent,"Units G,H & I, Daniel Platts Business Park ","Charles Clowes Drive, Tunstall, Stoke-on-Trent",ST6 4JU,-2.2127358,53.0528144,ROOFTOP,wgs84
+Midlands ,The Black Country and West Birmingham,Black Country Living Museum ,"Tipton Road, Dudley",DY1 4SQ,-2.0739501,52.5186371,GEOMETRIC_CENTER,wgs84
+North East & Yorkshire,Cumbria and North East,Arnison VC (Northumbria Water HQ) ,"Boldon House, Wheatlands Way, Durham, County Durham",DH1 5FA,-1.5771618,54.8077791,ROOFTOP,wgs84
+North East & Yorkshire,Cumbria and North East,Darlington Mowden Park (Northern Echo Arena),"Mowden Park, Neasham Road, Darlington",DL2 1DL,-1.5353793,54.5079703,GEOMETRIC_CENTER,wgs84
+North East & Yorkshire,Cumbria and North East,PFK Auctioneers,Penrith,CA11 0DN,-2.752708,54.664097,APPROXIMATE,wgs84
+North East & Yorkshire,Cumbria and North East,Riverside Park Stadium,Middlesbrough,TS3 6RS,-1.234956,54.574227,APPROXIMATE,wgs84
+North East & Yorkshire,Cumbria and North East,Sunderland Nightingale,"Sunderland Nightingale, Washington Rd, Museum ",SR5 3HX,-1.4741505,54.9251064,GEOMETRIC_CENTER,wgs84
+North East & Yorkshire,Humber Coast and Vale,Park and ride at Askham Bar,"Tadcaster Road, York",YO24 1LW,-1.1023239,53.9454912,GEOMETRIC_CENTER,wgs84
+North East & Yorkshire,"Humber, Coast and Vale",Hull City Hall,"Queen Victoria Square, Carr Lane, Hull ",HU1 3RQ,-0.3392237,53.7437247,GEOMETRIC_CENTER,wgs84
+North East & Yorkshire,"Humber, Coast and Vale",Scunthorpe Baths Hall,"Doncaster Road, Scunthorpe",DN15 7RG,-0.6832115,53.5901515,GEOMETRIC_CENTER,wgs84
+North East & Yorkshire,NE and North Cumbria,Centre for Life,"Times Square, Newcastle upon Tyne",NE1 4EP,-1.6211325,54.9679487,APPROXIMATE,wgs84
+North East & Yorkshire,South Yorkshire and Bassetlaw,"Fly DSA Arena, Sheffield","A6102 Broughton Lane, Sheffield",S9 2DF,-1.4137414,53.3977773,GEOMETRIC_CENTER,wgs84
+North East & Yorkshire,West Yorkshire and Harrogate,Elland Road Stadium,Leeds,LS11 0ES,-1.5490774,53.8007554,APPROXIMATE,wgs84
+North East & Yorkshire,West Yorkshire and Harrogate,Jacob's Well,"Jacob's Well Car Park, 5 Nelson St, Bradford",BD1 5AX,-1.7531107,53.7902242,ROOFTOP,wgs84
+North East & Yorkshire,West Yorkshire and Harrogate,John Smith's Stadium,"Stadium Way, Huddersfield",HD1 6PG,-1.770521,53.6537923,GEOMETRIC_CENTER,wgs84
+North East & Yorkshire,West Yorkshire and Harrogate ,"Spectrum Community Health CIC, Wakefield","One Navigation Walk, Hebble Wharf, Wakefield",WF1 5RH,,,,
+North East & Yorkshire,West Yorkshire and Harrogate (Health & Care Partnership),"Old Building, Bradford College",Great Horton Road,BD7 1DP,-1.7835568,53.7817896,GEOMETRIC_CENTER,wgs84
+North West,Cheshire and Merseyside,Alderley Park Conference centre,Congleton Road,SK104TG,-83.929446,37.6573723,GEOMETRIC_CENTER,wgs84
+North West,Cheshire and Merseyside,Chester Race Course,Watergate Square, CH12LY,-77.0559844,38.8992767,ROOFTOP,wgs84
+North West,Cheshire and Merseyside,St Helens Rugby Ground,"Peasley Cross Ln, McManus Dr, St Helens", WA9 3AL,-2.7235364,53.4469986,GEOMETRIC_CENTER,wgs84
+North West,Greater Manchester,Etihad Tennis centre Manchester,"Sportcity Gate 2 Alan Turing Way, Manchester ",M11 3BS,-2.2003953,53.4831381,GEOMETRIC_CENTER,wgs84
+North West,Healthier Lancashire and South Cumbria,Blackpool Winter Gardens,"Winter Gardens, 97 Church Street, Blackpool, Lancashire",FY1 1HW,-3.050669,53.8165597,ROOFTOP,wgs84
+North West,Healthier Lancashire and South Cumbria,Glaxo Sports Centre ,"North Lonsdale Road, Ulverston",LA12 9DR,-3.0724399,54.192885,GEOMETRIC_CENTER,wgs84
+North West,Healthier Lancashire and South Cumbria,Lancaster Town Hall,"Lancaster Town Hall, Dalton Square",LA1 1PL,-2.7977727,54.0471932,GEOMETRIC_CENTER,wgs84
+North West,Healthier Lancashire and South Cumbria,St John Shopping Centre,"Units 21 - 25 L&SC, Preston",PR1 1FB,,,,
+North West,Healthier Lancashire and South Cumbria,The Crypt,"Blackburn Cathedral, Cathedral Close, Ewood, Blackburn",BB1 5AA  ,-2.4818566,53.7473735,ROOFTOP,wgs84
+North West,Healthier Lancashire and South Cumbria,"The Mall, Charter Walk Shopping Centre","Unit 30-32, The Mall, 93 Sy James St  Burnley ",BB11 1PY,-2.243556,53.7896894,ROOFTOP,wgs84
+North West,Healthier Lancashire and South Cumbria,"Westmorland Shopping Centre, (Units 26 - 29)","50A Stramongate, Kendal, Cumbria",LA9 4BD,-2.7432564,54.329313,ROOFTOP,wgs84
+South East,"Berkshire, Oxford and Bedfordshire",Oxford Kassam Stadium,"Grenoble Road, Oxford ",OX4 4XP,-1.2055178,51.7146284,GEOMETRIC_CENTER,wgs84
+South East,"Buckinghamshire, Oxfordshire and Berkshire West",Bucks University Aylesbury Campus,"59 Walton St, Aylesbury ",HP21 7QG,-0.8097052,51.8140582,ROOFTOP,wgs84
+South East,"Buckinghamshire, Oxfordshire and Berkshire West",Madejski  Stadium (Reading - South central) ,"Junction 11, M4, Reading",RG2 0FL,-0.9836144,51.4224777,ROOFTOP,wgs84
+South East,Frimley Healtha and Care ICS,Salt Hill Activity Centre,"16-20 Bath Road, Slough",SL1 3SS,-0.601832,51.5114075,ROOFTOP,wgs84
+South East,Hampshire and the Isle of Wight,Basingstoke Fire Station,"W Ham Cl, Basingstoke ",RG22 6PH,-1.1201804,51.2630417,GEOMETRIC_CENTER,wgs84
+South East,Hampshire and the Isle of Wight,"Hamble House, St James Hospital site ","Nelson Drive, Locksway Road. Southsea",PO4 8FE,-1.05331,50.79361,ROOFTOP,wgs84
+South East,Hampshire and the Isle of Wight,Riverside Centre,"Riverside Centre, The Quay, Newport, Isle of Wight",PO30 2QR,-1.2906605,50.7023563,GEOMETRIC_CENTER,wgs84
+South East,Hampshire and the Isle of Wight,Southampton CCG Offices,"CCG Offices, Oakley Road, Southhampton",SO16 4GX,-1.4496675,50.9233141,GEOMETRIC_CENTER,wgs84
+South East,Kent and Medway,Angel Centre,"Angel Lane, Tonbridge",TN9 1SF,0.2735896,51.1926396,GEOMETRIC_CENTER,wgs84
+South East,Kent and Medway,DW Sports,"Pentagon Centre, Chatham",ME4 4HP,0.5253978,51.3838343,GEOMETRIC_CENTER,wgs84
+South East,Kent and Medway,Saga Contact Centre,"Eurokent Business Park, Haine Road, Ramsgate, Kent",CT12 5ZW,1.3890018,51.3573206,GEOMETRIC_CENTER,wgs84
+South East,Kent and Medway,Woodville Halls,"Woodville Place, Gravesend",DA12 1DD,0.3684871,51.4395405,GEOMETRIC_CENTER,wgs84
+South East,Kent and Medway ,Debenhams,"48-66 Sandgate Road, Folkestone",CT20 1DN,1.178159,51.0786885,ROOFTOP,wgs84
+South East,Surrey Heartlands,Epsom Racecourse,"Epsom Racecourse, Epsom Downs",KT18 5LQ,-0.2538044,51.306437,GEOMETRIC_CENTER,wgs84
+South East,Sussex,Westgate Leisure Centre,"Chichester, Sussex",PO19 1RJ,-0.774936,50.83761,APPROXIMATE,wgs84
+South East,Sussex Health and Care Partnership STP,Brighton Centre,"Kings Road, Brighton",BN1 2GR,-0.1481357,50.821192,GEOMETRIC_CENTER,wgs84
+South East,Sussex Health and Care Partnership STP,Crawley Hospital,"W Green Dr, Crawley ",RH11 7DH,-0.1956361,51.1168813,GEOMETRIC_CENTER,wgs84
+South East,Sussex Health and Care Partnership STP,Devonshire Quarter,"Devonshire Park, College Rd, Eastbourne ",BN21 4JJ,0.2819221,50.7637844,ROOFTOP,wgs84
+South West,"Bath and North East Somerset, Swindon and Wiltshire",Bath Racecourse,"Bath Racecourse, Lansdown, Bath",BA1 9BU,-2.4072092,51.4186697,GEOMETRIC_CENTER,wgs84
+South West,"Bath and North East Somerset, Swindon and Wiltshire",Salisbury City Hall,"Salisbury City Hall, Malthouse Lane, Salisbury, Wiltshire",SP2 7TU,-1.8002998,51.0700826,GEOMETRIC_CENTER,wgs84
+South West,"Bristol, North Somerset and South Gloucestershire",Ashton Gate Stadium,"Ashton Gate, Bristol",BS3 2ES,-2.6195918,51.441476,APPROXIMATE,wgs84
+South West,Cornwall and the Isles of Scilly,Truro Showground,"The Showground, Tubbin Hill, Stithians, Truro ",TR3 7DP,-5.1647446,50.1944844,GEOMETRIC_CENTER,wgs84
+South West,Cornwall and the Isles of Scilly Health & Social Care Partnership,Royal Cornwall Showground ,Wadebridge,PL27 7JE,-4.836456,50.516654,APPROXIMATE,wgs84
+South West,Devon,Home Park,"Home Park, Plymouth, Devon",PL2 3DQ,-4.1510375,50.3882518,GEOMETRIC_CENTER,wgs84
+South West,Devon,WestPoint Centre Ltd,"WestPoint Centre Ltd, Clyst St Mary, Exeter, Devon",EX5 1DJ,-3.440544,50.713022,GEOMETRIC_CENTER,wgs84
+South West,Dorset,Bournemouth International Centre,"Exeter Road, Bournemouth ",BH2 5BH,-1.8791888,50.7176583,GEOMETRIC_CENTER,wgs84
+South West,Somerset,Taunton Racecourse,"Orchard Portman, Taunton ",TA3 7BL,-3.079995,50.987767,APPROXIMATE,wgs84
+South West,Somerset,The Showground, Shepton Mallet,BA4 6QN,-2.547886,51.1909,APPROXIMATE,wgs84
