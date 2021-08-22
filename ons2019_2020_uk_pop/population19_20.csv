@@ -1,0 +1,403 @@
+﻿Area Code,Area Name,estimate
+,,
+K02000001,United Kingdom,"66,193"
+,,
+E92000001,England,"55,808"
+E12000001,North East,"2,624"
+E06000047,  County Durham13,520
+E06000005,  Darlington,105
+E06000001,  Hartlepool,92
+E06000002,  Middlesbrough,140
+E06000057,  Northumberland14,312
+E06000003,  Redcar and Cleveland,134
+E06000004,  Stockton-on-Tees,195
+E11000007,  Tyne and Wear (Met County),"1,126"
+E08000037,    Gateshead,202
+E08000021,    Newcastle upon Tyne,296
+E08000022,    North Tyneside,204
+E08000023,    South Tyneside,148
+E08000024,    Sunderland,275
+E12000002,North West,"7,232"
+E06000008,  Blackburn with Darwen,147
+E06000009,  Blackpool,135
+E06000049,  Cheshire East15,376
+E06000050,  Cheshire West and Chester16,335
+E06000006,  Halton,127
+E06000007,  Warrington,209
+E10000006,  Cumbria,488
+E07000026,    Allerdale,96
+E07000027,    Barrow-in-Furness,66
+E07000028,    Carlisle,108
+E07000029,    Copeland,67
+E07000030,    Eden,52
+E07000031,    South Lakeland,100
+E11000001,  Greater Manchester (Met County),"2,814"
+E08000001,    Bolton,286
+E08000002,    Bury,188
+E08000003,    Manchester,556
+E08000004,    Oldham,235
+E08000005,    Rochdale,217
+E08000006,    Salford,254
+E08000007,    Stockport,292
+E08000008,    Tameside,224
+E08000009,    Trafford,238
+E08000010,    Wigan,324
+E10000017,  Lancashire,"1,188"
+E07000117,    Burnley,87
+E07000118,    Chorley,115
+E07000119,    Fylde,77
+E07000120,    Hyndburn,79
+E07000121,    Lancaster,140
+E07000122,    Pendle,90
+E07000123,    Preston,139
+E07000124,    Ribble Valley,58
+E07000125,    Rossendale,70
+E07000126,    South Ribble,110
+E07000127,    West Lancashire,112
+E07000128,    Wyre,110
+E11000002,  Merseyside (Met County),"1,412"
+E08000011,    Knowsley,148
+E08000012,    Liverpool,493
+E08000014,    Sefton,271
+E08000013,    St Helens,179
+E08000015,    Wirral,320
+E12000003,Yorkshire and The Humber ,"5,435"
+E06000011,  East Riding of Yorkshire,334
+E06000010,"  Kingston upon Hull, City of",259
+E06000012,  North East Lincolnshire,158
+E06000013,  North Lincolnshire,171
+E06000014,  York,208
+E10000023,  North Yorkshire,599
+E07000163,    Craven,56
+E07000164,    Hambleton,89
+E07000165,    Harrogate,157
+E07000166,    Richmondshire,49
+E07000167,    Ryedale,54
+E07000168,    Scarborough,106
+E07000169,    Selby,88
+E11000003,  South Yorkshire (Met County),"1,394"
+E08000016,    Barnsley,246
+E08000017,    Doncaster,304
+E08000018,    Rotherham,263
+E08000019,    Sheffield,581
+E11000006,  West Yorkshire (Met County),"2,313"
+E08000032,    Bradford,532
+E08000033,    Calderdale,210
+E08000034,    Kirklees,439
+E08000035,    Leeds,791
+E08000036,    Wakefield,340
+E12000004,East Midlands,"4,767"
+E06000015,  Derby,259
+E06000016,  Leicester,357
+E06000018,  Nottingham,327
+E06000017,  Rutland,36
+E10000007,  Derbyshire,787
+E07000032,    Amber Valley,125
+E07000033,    Bolsover,79
+E07000034,    Chesterfield,104
+E07000035,    Derbyshire Dales,70
+E07000036,    Erewash,116
+E07000037,    High Peak,91
+E07000038,    North East Derbyshire,100
+E07000039,    South Derbyshire,102
+E10000018,  Leicestershire ,690
+E07000129,    Blaby,99
+E07000130,    Charnwood,182
+E07000131,    Harborough,91
+E07000132,    Hinckley and Bosworth,112
+E07000133,    Melton,51
+E07000134,    North West Leicestershire,100
+E07000135,    Oadby and Wigston,55
+E10000019,  Lincolnshire,748
+E07000136,    Boston,68
+E07000137,    East Lindsey,137
+E07000138,    Lincoln,97
+E07000139,    North Kesteven,114
+E07000140,    South Holland,94
+E07000141,    South Kesteven,143
+E07000142,    West Lindsey,95
+E10000021,  Northamptonshire,746
+E07000150,    Corby,72
+E07000151,    Daventry,81
+E07000152,    East Northamptonshire,92
+E07000153,    Kettering,101
+E07000154,    Northampton,229
+E07000155,    South Northamptonshire,92
+E07000156,    Wellingborough,79
+E10000024,  Nottinghamshire ,817
+E07000170,    Ashfield,126
+E07000171,    Bassetlaw,114
+E07000172,    Broxtowe,113
+E07000173,    Gedling,118
+E07000174,    Mansfield,109
+E07000175,    Newark and Sherwood,121
+E07000176,    Rushcliffe,116
+E12000005,West Midlands,"5,861"
+E06000019,"  Herefordshire, County of",190
+E06000051,  Shropshire17,311
+E06000021,  Stoke-on-Trent,255
+E06000020,  Telford and Wrekin,176
+E10000028,  Staffordshire ,861
+E07000192,    Cannock Chase,98
+E07000193,    East Staffordshire,116
+E07000194,    Lichfield,102
+E07000195,    Newcastle-under-Lyme,129
+E07000196,    South Staffordshire,110
+E07000197,    Stafford,132
+E07000198,    Staffordshire Moorlands,97
+E07000199,    Tamworth,76
+E10000031,  Warwickshire,559
+E07000218,    North Warwickshire,63
+E07000219,    Nuneaton and Bedworth,128
+E07000220,    Rugby,106
+E07000221,    Stratford-on-Avon,123
+E07000222,    Warwick,139
+E11000005,  West Midlands (Met County),"2,926"
+E08000025,    Birmingham,"1,149"
+E08000026,    Coventry,372
+E08000027,    Dudley,318
+E08000028,    Sandwell,329
+E08000029,    Solihull,214
+E08000030,    Walsall,283
+E08000031,    Wolverhampton,260
+E10000034,  Worcestershire,584
+E07000234,    Bromsgrove,96
+E07000235,    Malvern Hills,76
+E07000236,    Redditch,85
+E07000237,    Worcester,103
+E07000238,    Wychavon,125
+E07000239,    Wyre Forest,100
+E12000006,East,"6,214"
+E06000055,  Bedford18,173
+E06000056,  Central Bedfordshire19,288
+E06000032,  Luton,221
+E06000031,  Peterborough,202
+E06000033,  Southend-on-Sea,183
+E06000034,  Thurrock,175
+E10000003,  Cambridgeshire,648
+E07000008,    Cambridge,122
+E07000009,    East Cambridgeshire,90
+E07000010,    Fenland,101
+E07000011,    Huntingdonshire,177
+E07000012,    South Cambridgeshire,159
+E10000012,  Essex,"1,481"
+E07000066,    Basildon,188
+E07000067,    Braintree,152
+E07000068,    Brentwood,78
+E07000069,    Castle Point,90
+E07000070,    Chelmsford,176
+E07000071,    Colchester,192
+E07000072,    Epping Forest,132
+E07000073,    Harlow,88
+E07000074,    Maldon,64
+E07000075,    Rochford,87
+E07000076,    Tendring,145
+E07000077,    Uttlesford,89
+E10000015,  Hertfordshire,"1,196"
+E07000095,    Broxbourne,99
+E07000096,    Dacorum,155
+E07000242,    East Hertfordshire,149
+E07000098,    Hertsmere,104
+E07000099,    North Hertfordshire,135
+E07000240,    St Albans20,149
+E07000243,    Stevenage,89
+E07000102,    Three Rivers,94
+E07000103,    Watford,99
+E07000241,    Welwyn Hatfield21,125
+E10000020,  Norfolk,896
+E07000143,    Breckland,138
+E07000144,    Broadland,127
+E07000145,    Great Yarmouth,99
+E07000146,    King's Lynn and West Norfolk,152
+E07000147,    North Norfolk,102
+E07000148,    Norwich,142
+E07000149,    South Norfolk,136
+E10000029,  Suffolk,750
+E07000200,    Babergh,90
+E07000201,    Forest Heath,64
+E07000202,    Ipswich,140
+E07000203,    Mid Suffolk,101
+E07000204,    St Edmundsbury,111
+E07000205,    Suffolk Coastal,127
+E07000206,    Waveney,117
+E12000007,London,"9,028"
+E13000001,Inner London,"3,630"
+E09000007,  Camden,261
+E09000001,  City of London22,:
+E09000012,  Hackney,287
+E09000013,  Hammersmith and Fulham,180
+E09000014,  Haringey,280
+E09000019,  Islington,242
+E09000020,  Kensington and Chelsea,154
+E09000022,  Lambeth,329
+E09000023,  Lewisham,311
+E09000025,  Newham,360
+E09000028,  Southwark,322
+E09000030,  Tower Hamlets,323
+E09000032,   Wandsworth,326
+E09000033,   Westminster,254
+E13000002,Outer London,"5,398"
+E09000002,  Barking and Dagenham,220
+E09000003,  Barnet,398
+E09000004,  Bexley,253
+E09000005,  Brent,331
+E09000006,  Bromley,337
+E09000008,  Croydon,392
+E09000009,  Ealing,344
+E09000010,  Enfield,342
+E09000011,  Greenwich,291
+E09000015,  Harrow,251
+E09000016,  Havering,263
+E09000017,  Hillingdon,312
+E09000018,  Hounslow,274
+E09000021,  Kingston upon Thames,180
+E09000024,  Merton,210
+E09000026,  Redbridge,313
+E09000027,  Richmond upon Thames,199
+E09000029,  Sutton,207
+E09000031,  Waltham Forest,281
+E12000008,South East,"9,094"
+E06000036,  Bracknell Forest,120
+E06000043,  Brighton and Hove,291
+E06000046,  Isle of Wight,137
+E06000035,  Medway,282
+E06000042,  Milton Keynes,274
+E06000044,  Portsmouth,215
+E06000038,  Reading,165
+E06000039,  Slough,151
+E06000045,  Southampton,255
+E06000037,  West Berkshire,158
+E06000040,  Windsor and Maidenhead,148
+E06000041,  Wokingham,166
+E10000002,  Buckinghamshire,540
+E07000004,    Aylesbury Vale,200
+E07000005,    Chiltern,95
+E07000006,    South Bucks,70
+E07000007,    Wycombe,175
+E10000011,  East Sussex,553
+E07000061,    Eastbourne,103
+E07000062,    Hastings,93
+E07000063,    Lewes,103
+E07000064,    Rother,94
+E07000065,    Wealden,160
+E10000014,  Hampshire,"1,367"
+E07000084,    Basingstoke and Deane,177
+E07000085,    East Hampshire,118
+E07000086,    Eastleigh,131
+E07000087,    Fareham,117
+E07000088,    Gosport,86
+E07000089,    Hart,94
+E07000090,    Havant,124
+E07000091,    New Forest,178
+E07000092,    Rushmoor,94
+E07000093,    Test Valley,124
+E07000094,    Winchester,123
+E10000016,  Kent ,"1,560"
+E07000105,    Ashford,130
+E07000106,    Canterbury,164
+E07000107,    Dartford,109
+E07000108,    Dover,114
+E07000112,    Folkestone and Hythe,111
+E07000109,    Gravesham,108
+E07000110,    Maidstone,169
+E07000111,    Sevenoaks,120
+E07000113,    Swale,148
+E07000114,    Thanet,143
+E07000115,    Tonbridge and Malling,129
+E07000116,    Tunbridge Wells,116
+E10000025,  Oxfordshire,673
+E07000177,    Cherwell,146
+E07000178,    Oxford,151
+E07000179,    South Oxfordshire,139
+E07000180,    Vale of White Horse,129
+E07000181,    West Oxfordshire,107
+E10000030,  Surrey,"1,183"
+E07000207,    Elmbridge,137
+E07000208,    Epsom and Ewell,80
+E07000209,    Guildford,148
+E07000210,    Mole Valley,87
+E07000211,    Reigate and Banstead,146
+E07000212,    Runnymede,88
+E07000213,    Spelthorne,100
+E07000214,    Surrey Heath,88
+E07000215,    Tandridge,86
+E07000216,    Waverley,122
+E07000217,    Woking,101
+E10000032,  West Sussex,855
+E07000223,    Adur,65
+E07000224,    Arun,159
+E07000225,    Chichester,119
+E07000226,    Crawley,113
+E07000227,    Horsham,139
+E07000228,    Mid Sussex,149
+E07000229,    Worthing,110
+E12000009,South West,"5,553"
+E06000022,  Bath and North East Somerset,189
+E06000028,  Bournemouth,196
+E06000023,"  Bristol, City of",468
+E06000052,  Cornwall23,563
+E06000053,  Isles of Scilly24,:
+E06000024,  North Somerset,214
+E06000026,  Plymouth,262
+E06000029,  Poole,151
+E06000025,  South Gloucestershire,282
+E06000030,  Swindon,222
+E06000027,  Torbay,134
+E06000054,  Wiltshire25,493
+E10000008,  Devon,782
+E07000040,    East Devon,142
+E07000041,    Exeter,130
+E07000042,    Mid Devon,80
+E07000043,    North Devon,93
+E07000044,    South Hams,84
+E07000045,    Teignbridge,131
+E07000046,    Torridge,68
+E07000047,    West Devon,54
+E10000009,  Dorset,419
+E07000048,    Christchurch,50
+E07000049,    East Dorset,89
+E07000050,    North Dorset,69
+E07000051,    Purbeck,46
+E07000052,    West Dorset,100
+E07000053,    Weymouth and Portland,64
+E10000013,  Gloucestershire,629
+E07000078,    Cheltenham,116
+E07000079,    Cotswold,87
+E07000080,    Forest of Dean,85
+E07000081,    Gloucester,131
+E07000082,    Stroud,119
+E07000083,    Tewkesbury,91
+E10000027,  Somerset,551
+E07000187,    Mendip,112
+E07000188,    Sedgemoor,124
+E07000189,    South Somerset,166
+E07000190,    Taunton Deane,116
+E07000191,    West Somerset,33
+,,
+W92000004,Wales,"3,121"
+W06000001,    Isle of Anglesey / Ynys Môn,70
+W06000002,    Gwynedd / Gwynedd,123
+W06000003,    Conwy / Conwy,115
+W06000004,    Denbighshire / Sir Ddinbych,95
+W06000005,    Flintshire / Sir y Fflint,156
+W06000006,    Wrexham / Wrecsam,140
+W06000023,    Powys / Powys,130
+W06000008,    Ceredigion / Ceredigion,76
+W06000009,    Pembrokeshire / Sir Benfro,123
+W06000010,    Carmarthenshire / Sir Gaerfyrddin,186
+W06000011,    Swansea / Abertawe,245
+W06000012,    Neath Port Talbot / Castell-nedd Port Talbot,141
+W06000013,    Bridgend / Pen-y-bont ar Ogwr,142
+W06000014,    Vale of Glamorgan / Bro Morgannwg,127
+W06000015,    Cardiff / Caerdydd,371
+W06000016,    Rhondda Cynon Taf / Rhondda Cynon Taf,239
+W06000024,    Merthyr Tydfil / Merthyr Tudful,59
+W06000018,    Caerphilly / Caerffili,182
+W06000019,    Blaenau Gwent / Blaenau Gwent,69
+W06000020,    Torfaen / Torfaen,92
+W06000021,    Monmouthshire / Sir Fynwy,92
+W06000022,    Newport / Casnewydd,149
+,,
+S92000003,Scotland,"5,395"
+N92000002,Northern Ireland,"1,868"
+,,
