@@ -1,3 +1,3 @@
 # Dissertation
-## There are codes and data of my dissertation.
+## These are codes and data of my dissertation.
 ## Thanks for reading.
